@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1101,5): warning MSB8027: Mehrere Dateien mit dem Namen glm.cpp führen zu Ausgaben am selben Speicherort. Dadurch kann ein falsches Buildergebnis entstehen. Die betroffenen Dateien sind ..\..\..\..\Downloads\glm-0.9.9.8\glm\glm\detail\glm.cpp, src\vendor\glm\detail\glm.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1101,5): warning MSB8027: Mehrere Dateien mit dem Namen imgui_impl_glfw.cpp führen zu Ausgaben am selben Speicherort. Dadurch kann ein falsches Buildergebnis entstehen. Die betroffenen Dateien sind ..\..\..\..\Downloads\imgui-1.89.3\imgui-1.89.3\backends\imgui_impl_glfw.cpp, src\vendor\imgui\imgui_impl_glfw.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1101,5): warning MSB8027: Mehrere Dateien mit dem Namen imgui_impl_opengl3.cpp führen zu Ausgaben am selben Speicherort. Dadurch kann ein falsches Buildergebnis entstehen. Die betroffenen Dateien sind ..\..\..\..\Downloads\imgui-1.89.3\imgui-1.89.3\backends\imgui_impl_opengl3.cpp, src\vendor\imgui\imgui_impl_opengl3.cpp.
+  Tutorial.cpp
+C:\Users\Simon\source\repos\OpenGL\OpenGL\src\Tutorial.cpp(62,5): warning C4551: Dem Funktionsaufruf fehlt die Argumentliste
+C:\Users\Simon\source\repos\OpenGL\OpenGL\src\Tutorial.cpp(63,5): warning C4551: Dem Funktionsaufruf fehlt die Argumentliste
+  OpenGL.vcxproj -> C:\Users\Simon\source\repos\OpenGL\Debug\OpenGL.exe

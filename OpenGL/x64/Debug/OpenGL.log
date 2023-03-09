@@ -1,0 +1,19 @@
+﻿  Application.cpp
+C:\Users\Simon\source\repos\OpenGL\OpenGL\src\Application.cpp(131,34): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Simon\source\repos\OpenGL\OpenGL\src\Application.cpp(132,33): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Simon\source\repos\OpenGL\OpenGL\src\Application.cpp(133,32): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Simon\source\repos\OpenGL\OpenGL\src\Application.cpp(136,34): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Simon\source\repos\OpenGL\OpenGL\src\Application.cpp(137,32): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Simon\source\repos\OpenGL\OpenGL\src\Application.cpp(138,33): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\Simon\source\repos\OpenGL\OpenGL\src\Application.cpp(170,39): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+Application.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp_glewInit" in Funktion "main".
+Application.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "glfwInit" in Funktion "main".
+Application.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "glfwTerminate" in Funktion "main".
+Application.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "glfwCreateWindow" in Funktion "main".
+Application.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "glfwWindowShouldClose" in Funktion "main".
+Application.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "glfwPollEvents" in Funktion "main".
+Application.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "glfwMakeContextCurrent" in Funktion "main".
+Application.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "glfwSwapBuffers" in Funktion "main".
+C:\Users\Simon\source\repos\OpenGL\OpenGL\Dependencies\GLEW\lib\Release\Win32\glew32s.lib : warning LNK4272: Bibliothekcomputertyp "x86" steht in Konflikt mit dem Zielcomputertyp "x64"
+C:\Users\Simon\source\repos\OpenGL\OpenGL\Dependencies\GLFW\lib-vc2019\glfw3.lib : warning LNK4272: Bibliothekcomputertyp "x86" steht in Konflikt mit dem Zielcomputertyp "x64"
+C:\Users\Simon\source\repos\OpenGL\x64\Debug\OpenGL.exe : fatal error LNK1120: 8 nicht aufgelöste Externe
